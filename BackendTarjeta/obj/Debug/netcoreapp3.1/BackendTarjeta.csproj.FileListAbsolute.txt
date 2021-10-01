@@ -1,0 +1,118 @@
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\staticwebassets\BackendTarjeta.StaticWebAssets.Manifest.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\staticwebassets\BackendTarjeta.StaticWebAssets.xml
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackendTarjeta.styles.css
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.RazorTargetAssemblyInfo.cache
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.dll
+C:\Users\omary\OneDrive\Documentos\MEGA\Desarrollo_Software\Cursos_Realizados\CRUD_ANGULAR_+NET CORE+ENTITY FRAMEWORK CORE+SQL SERVER\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.exe
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.deps.json
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.runtimeconfig.json
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.runtimeconfig.dev.json
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\BackendTarjeta.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\staticwebassets\BackendTarjeta.StaticWebAssets.Manifest.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\staticwebassets\BackendTarjeta.StaticWebAssets.xml
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackendTarjeta.styles.css
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.RazorTargetAssemblyInfo.cache
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.csproj.CopyComplete
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.dll
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.pdb
+C:\Users\omary\OneDrive\Escritorio\BackendTarjeta\BackendTarjeta\obj\Debug\netcoreapp3.1\BackendTarjeta.genruntimeconfig.cache
